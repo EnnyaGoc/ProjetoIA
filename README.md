@@ -1,16 +1,17 @@
 # Título do Projeto Extremamente Aesthetic ;)
+Python colocando o shape em dia
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Uma imagem do python treinando em uma academia
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+NightCafe
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Escrevendo a descrição da imagem no prompt
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+![pAnoNG9JW70h6mWHaLbT--1--o0gqa](https://github.com/user-attachments/assets/6d6432e1-c18f-4016-82fb-e0da33b16bdf)
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+
+
